@@ -32,4 +32,3 @@ O "ANALISADOR DE NÚMEROS" é uma aplicação simples que permite aos usuários 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [PROJETO FEITO PARA O CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
